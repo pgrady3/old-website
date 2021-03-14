@@ -3,17 +3,17 @@
   <generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
   
   
-  <link href="http://www.pgrady.net/contactopt/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://www.pgrady.net/contactopt/" rel="alternate" type="text/html" />
-  <updated>2021-03-03T19:49:16-05:00</updated>
-  <id>http://www.pgrady.net/contactopt//</id>
+  <link href="www.pgrady.net/contactopt/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="www.pgrady.net/contactopt/" rel="alternate" type="text/html" />
+  <updated>2021-03-14T12:34:46-04:00</updated>
+  <id>www.pgrady.net/contactopt//</id>
 
   
     <title type="html">ContactOpt</title>
   
 
   
-    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+    <subtitle>ContactOpt: Optimizing Contact to Improve Grasps</subtitle>
   
 
   
@@ -25,12 +25,12 @@
       <title type="html">Welcome to Jekyll!</title>
       
       
-      <link href="http://www.pgrady.net/contactopt/2021/03/03/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+      <link href="www.pgrady.net/contactopt/2021/03/03/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
       
       <published>2021-03-03T17:57:51-05:00</published>
       <updated>2021-03-03T17:57:51-05:00</updated>
-      <id>http://www.pgrady.net/contactopt/2021/03/03/welcome-to-jekyll</id>
-      <content type="html" xml:base="http://www.pgrady.net/contactopt/2021/03/03/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+      <id>www.pgrady.net/contactopt/2021/03/03/welcome-to-jekyll</id>
+      <content type="html" xml:base="www.pgrady.net/contactopt/2021/03/03/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 

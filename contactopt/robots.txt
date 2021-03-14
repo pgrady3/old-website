@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://www.pgrady.net/contactopt/sitemap.xml
+Sitemap: www.pgrady.net/contactopt/sitemap.xml
